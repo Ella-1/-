@@ -18,7 +18,7 @@ To install MetaMask Connect, follow these steps:
 1. Clone this repository to your local machine using `git clone https://github.com/your-username/metamask-connect.git`
 2. Navigate to the project folder using `cd metamask-connect`
 3. Install the dependencies using `npm install`
-4. Start the development server using `npm start`
+4. Start the development server using `npm run dev`
 5. Open your browser and go to `http://localhost:3000`
 
 ## Usage
